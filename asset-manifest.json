@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ded4ce2f.css",
-    "main.js": "/static/js/main.a8397909.js",
+    "main.js": "/static/js/main.5f637552.js",
     "static/css/64.917cfe77.chunk.css": "/static/css/64.917cfe77.chunk.css",
     "static/js/64.1003b796.chunk.js": "/static/js/64.1003b796.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
@@ -9,6 +9,7 @@
     "static/media/hackathon2.png": "/static/media/hackathon2.dbf1a15ba163718657cf.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/pucon.jpeg": "/static/media/pucon.404909dfecd9391afe1d.jpeg",
+    "static/media/hackathon23.jpeg": "/static/media/hackathon23.c0fedfa9b2e00787861d.jpeg",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/hackathon.jpeg": "/static/media/hackathon.287fb3f055cedfeb669f.jpeg",
     "static/media/airunilogo.png": "/static/media/airunilogo.07724e173df4977e7db3.png",
@@ -25,7 +26,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.ded4ce2f.css.map": "/static/css/main.ded4ce2f.css.map",
-    "main.a8397909.js.map": "/static/js/main.a8397909.js.map",
+    "main.5f637552.js.map": "/static/js/main.5f637552.js.map",
     "64.917cfe77.chunk.css.map": "/static/css/64.917cfe77.chunk.css.map",
     "64.1003b796.chunk.js.map": "/static/js/64.1003b796.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
@@ -33,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.ded4ce2f.css",
-    "static/js/main.a8397909.js"
+    "static/js/main.5f637552.js"
   ]
 }
