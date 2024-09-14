@@ -142,7 +142,7 @@ function HomePage() {
 async function getStaticProps() {
     return {
         props: {
-            title: 'Home'
+            title: 'Shameer Kashif'
         }
     };
 }

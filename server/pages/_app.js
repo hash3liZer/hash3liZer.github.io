@@ -905,7 +905,7 @@ function MyApp({ Component , pageProps  }) {
     return(/*#__PURE__*/ (0,jsx_runtime_.jsxs)(components_Layout, {
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx(Head, {
-                title: `Nitin Ranganath | ${pageProps.title}`
+                title: `hash3liZer | ${pageProps.title}`
             }),
             /*#__PURE__*/ jsx_runtime_.jsx(Component, {
                 ...pageProps
