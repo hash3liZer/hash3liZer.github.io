@@ -165,7 +165,7 @@ const Titlebar = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: (Titlebar_module_default()).title,
-                children: "hash3liZer - who@ami"
+                children: "hash3liZer - who@mi"
             }),
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                 className: (Titlebar_module_default()).windowButtons,
