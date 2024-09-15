@@ -101,7 +101,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 6344:
+/***/ 7936:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -844,7 +844,11 @@ const Layout = ({ children  })=>{
 ;// CONCATENATED MODULE: external "next/head"
 const head_namespaceObject = require("next/head");
 var head_default = /*#__PURE__*/__webpack_require__.n(head_namespaceObject);
+;// CONCATENATED MODULE: external "next/script"
+const script_namespaceObject = require("next/script");
+var script_default = /*#__PURE__*/__webpack_require__.n(script_namespaceObject);
 ;// CONCATENATED MODULE: ./components/Head.jsx
+
 
 
 const CustomHead = ({ title  })=>{
@@ -880,6 +884,21 @@ const CustomHead = ({ title  })=>{
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 name: "twitter:card",
                 content: "summary_large_image"
+            }),
+            /*#__PURE__*/ jsx_runtime_.jsx("script", {
+                async: true,
+                src: "https://www.googletagmanager.com/gtag/js?id=G-GLL1KK0TWH"
+            }),
+            /*#__PURE__*/ jsx_runtime_.jsx((script_default()), {
+                id: "google-analytics",
+                strategy: "afterInteractive",
+                children: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-GLL1KK0TWH');
+        `
             })
         ]
     }));
@@ -1069,7 +1088,7 @@ module.exports = require("react/jsx-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [190,675,664,857], () => (__webpack_exec__(6344)));
+var __webpack_exports__ = __webpack_require__.X(0, [190,675,664,857], () => (__webpack_exec__(7936)));
 module.exports = __webpack_exports__;
 
 })();
