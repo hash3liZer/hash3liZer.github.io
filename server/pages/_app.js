@@ -859,27 +859,27 @@ const CustomHead = ({ title  })=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 name: "description",
-                content: "Nitin Ranganath is an avid full stack web developer building websites and applications you'd love to use"
+                content: "My name is Shameer Kashif aka hash3liZer. I do Cyber Security, break things, play CTFs. I am more into Web & Binary Exploitation"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 name: "keywords",
-                content: "nitin ranganath, nitin, ranganath, web developer portfolio, nitin web developer, nitin developer, mern stack, nitin ranganath portfolio, vscode-portfolio"
+                content: "Shameer, Shameer Kashif, hash3liZer, portfolio, cyber security, ctfs, web exploitation, binary exploitation"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 property: "og:title",
-                content: "Nitin Ranganath's Portfolio"
+                content: "Shameer Kashif | hash3liZer"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 property: "og:description",
-                content: "A full-stack developer building websites that you'd like to use."
+                content: "My name is Shameer Kashif aka hash3liZer. I do Cyber Security, break things, play CTFs. I am more into Web & Binary Exploitation"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 property: "og:image",
-                content: "https://imgur.com/4zi5KkQ.png"
+                content: "https://github.com/user-attachments/assets/6d314326-0216-43ee-9162-fb8a1b8c3029"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 property: "og:url",
-                content: "https://vscode-portfolio.vercel.app"
+                content: "https://shameerkashif.me"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                 name: "twitter:card",
@@ -905,7 +905,7 @@ const CustomHead = ({ title  })=>{
 };
 /* harmony default export */ const Head = (CustomHead);
 CustomHead.defaultProps = {
-    title: 'Nitin Ranganath'
+    title: 'Shameer Kashif'
 };
 
 ;// CONCATENATED MODULE: ./pages/_app.js
