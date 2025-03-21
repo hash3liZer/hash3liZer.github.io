@@ -757,27 +757,27 @@ const Tabsbar = ()=>{
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx(components_Tab, {
                 icon: "/react_icon.svg",
-                filename: "home.jsx",
+                filename: "_app.jsx",
                 path: "/"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx(components_Tab, {
                 icon: "/html_icon.svg",
-                filename: "about.html",
+                filename: "something_about_me.html",
                 path: "https://blog.shameerkashif.me/resume"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx(components_Tab, {
                 icon: "/css_icon.svg",
-                filename: "contact.css",
+                filename: "write_me_an_email.css",
                 path: "/contact"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx(components_Tab, {
                 icon: "/json_icon.svg",
-                filename: "articles.json",
+                filename: "__data.json",
                 path: "https://blog.shameerkashif.me"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx(components_Tab, {
                 icon: "/markdown_icon.svg",
-                filename: "github.md",
+                filename: "cracked_github.md",
                 path: "/github"
             })
         ]
